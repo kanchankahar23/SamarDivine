@@ -6,25 +6,25 @@ const testimonials = [
     name: "Ravi Sharma",
     location: "Delhi, India",
     text: "The Ganesh murti I ordered from Samarth Divine is breathtaking. The craftsmanship and detailing are extraordinary — it feels like a divine presence in my home.",
-    image: "https://randomuser.me/api/portraits/men/32.jpg",
+    image: "https://randomuser.me/api/portraits/men/30.jpg",
   },
   {
     name: "Karan Patel",
     location: "Ahmedabad, India",
     text: "I gifted a Laxmi murti to my mother on Diwali. She was moved to tears by its beauty. Samarth Divine truly pours devotion into every creation.",
-    image: "https://randomuser.me/api/portraits/women/44.jpg",
+    image: "https://randomuser.me/api/portraits/women/14.jpg",
   },
   {
     name: "Diya Verma",
     location: "Lucknow, India",
     text: "The Shiva idol arrived perfectly packaged and the finish is immaculate. You can feel the spiritual energy radiating from it. Truly divine craftsmanship",
-    image: "https://randomuser.me/api/portraits/men/65.jpg",
+    image: "https://randomuser.me/api/portraits/men/60.jpg",
   },
   {
     name: "Kajal tiwade",
     location: "Kerala, India",
     text: "Our pooja ghar feels complete now. The Saraswati murti is carved with such devotion and precision. Samarth Divine is our go-to for all sacred murtis",
-    image: "https://randomuser.me/api/portraits/women/52.jpg",
+    image: "https://randomuser.me/api/portraits/women/12.jpg",
   },
 ];
 
