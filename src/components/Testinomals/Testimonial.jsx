@@ -50,12 +50,11 @@ export default function Testimonials() {
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          className="text-4xl md:text-5xl font-bold text-center text-gray-800 mb-12"
+          className="text-4xl md:text-5xl font-bold text-center text-maroon mb-12"
         >
           What Our{" "}
-          <span className="bg-gradient-to-r from-pink-500 to-red-600 bg-clip-text text-transparent">
             Customer Say
-          </span>
+      
         </motion.h2>
 
         {/* Cards */}
