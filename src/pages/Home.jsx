@@ -41,7 +41,7 @@ export default function Home() {
       const targets = {
         customers: 5000,
         years: 15,
-        products: 500,
+        products: 50000,
         rating: 4.8,
       };
 
